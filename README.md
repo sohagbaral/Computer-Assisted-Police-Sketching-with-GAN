@@ -15,7 +15,7 @@
     <li> <img src = "https://github.com/sohagbaral/Computer-Assisted-Police-Sketching-with-GAN/blob/master/Generated%20Faces/Gen_1.jpg" height = 200 width = 220> </li> <br>
     <li> <img src = "https://github.com/sohagbaral/Computer-Assisted-Police-Sketching-with-GAN/blob/master/Generated%20Faces/Gen_2.jpg" height = 200 width = 220> </li> <br>
     <li> <img src = "https://github.com/sohagbaral/Computer-Assisted-Police-Sketching-with-GAN/blob/master/Generated%20Faces/Gen_3.jpg" height = 200 width = 220> </li> <br>
-    <li> <img src = "https://github.com/Malayanil/sohagbaral/Computer-Assisted-Police-Sketching-with-GAN/blob/master/Generated%20Faces/Gen_4.jpg" height = 200 width = 220> </li> <br>
+    <li> <img src = "https://github.com/sohagbaral/Computer-Assisted-Police-Sketching-with-GAN/blob/master/Generated%20Faces/Gen_4.jpg" height = 200 width = 220> </li> <br>
     <li> <img src = "https://github.com/sohagbaral/Computer-Assisted-Police-Sketching-with-GAN/blob/master/Generated%20Faces/Gen_5.jpg" height = 200 width = 220> </li> <br>
     <li> <img src = "https://github.com/sohagbaral/Computer-Assisted-Police-Sketching-with-GAN/blob/master/Generated%20Faces/Gen_6.jpg" height = 200 width = 220> </li> <br>
     <li> <img src = "https://github.com/sohagbaral/Computer-Assisted-Police-Sketching-with-GAN/blob/master/Generated%20Faces/Gen_7.jpg" height = 200 width = 220> </li> <br>
