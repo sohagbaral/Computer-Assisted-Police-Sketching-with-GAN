@@ -22,7 +22,7 @@
  </ol>
  
  <h2>Epochs VS Error Graph.</h2>
- <img src = "https://github.com/Malayanil/ETMJ100/blob/master/Code/X-Epochs%20vs%20Y-Error.png">
+ <img src = "https://github.com/sohagbaral/Computer-Assisted-Police-Sketching-with-GAN/blob/master/X-Epochs%20vs%20Y-Error.png">
  <p> The X-Axis represents the number of Epochs and the Y-Axis represents the Error (MSE). </p><br>
  
  <h2>The Model (Generator)</h2>
